@@ -1,0 +1,53 @@
+body {
+  color: #000000;
+  font-family: 'Nunito', sans-serif;
+  /*background: linear-gradient(180deg, #47A3B2 36.02%, #89CDD8 100%);*/
+  /*background: #47A3B2;*/
+}
+
+a:link, a:visited, a:hover, a:active {
+  color: inherit;
+  text-decoration: none;
+}
+
+
+#accent-text{
+  font-family: 'Zilla Slab', serif;
+}
+#landing {
+  background: linear-gradient(180deg, #47A3B2 36.02%, #89CDD8 100%);
+}
+#about{
+  margin-top: 25px;
+}
+#wave{
+  margin-top: 25px;
+  margin-bottom: 50px;
+}
+#faqs{
+  background: linear-gradient(180deg, #89CDD8 100%, #47A3B2 36.02%);
+  margin-top: 40px;
+}
+#br-align{
+  position: absolute;
+  bottom: 0;
+  right:10px;
+}
+#center{
+  text-align: center;
+}
+
+#b-space{
+  margin-bottom: 25px;
+}
+#s-space{
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+h1,h2 {
+  color: #ffffff
+}
+#pink {
+  color: #F29E9F;
+}
