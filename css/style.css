@@ -32,6 +32,7 @@ a:link, a:visited, a:hover, a:active {
 #footer{
   background: linear-gradient(180deg, #47A3B2 0%, rgba(71, 163, 178, 0.65) 100%);;
   padding-top: 10px;
+  padding-bottom: 10px;
 }
 #br-align{
   position: absolute;
@@ -82,7 +83,7 @@ a:link, a:visited, a:hover, a:active {
   max-height: 25px;
   position: relative;
   top: 50%;
-  transform: translateY(-60%);
+  transform: translateY(-50%);
 }
 
 #pink {
