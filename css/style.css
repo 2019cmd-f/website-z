@@ -13,6 +13,7 @@ a:link, a:visited, a:hover, a:active {
 
 #accent-text{
   font-family: 'Zilla Slab', serif;
+  font-weight: 500;
 }
 #landing {
   background: linear-gradient(180deg, #47A3B2 36.02%, #89CDD8 100%);
@@ -25,12 +26,17 @@ a:link, a:visited, a:hover, a:active {
   margin-bottom: 50px;
 }
 #faqs{
-  background: linear-gradient(180deg, #89CDD8 100%, #47A3B2 36.02%);
+  background: linear-gradient(180deg, #89CDD8 0%, #47A3B2 66.01%);
   margin-top: 40px;
+}
+
+#footer{
+  background: #47A3B2;
+  padding-top: 10px;
 }
 #br-align{
   position: absolute;
-  bottom: 0;
+  bottom: 5px;
   right:10px;
 }
 #center{
@@ -44,10 +50,34 @@ a:link, a:visited, a:hover, a:active {
   margin-left: 10px;
   margin-right: 10px;
 }
-
-h1,h2 {
-  color: #ffffff
+#space{
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 10px;
 }
+
+#question{
+  font-size: 16px;
+  background-color: white;
+  border-radius: 10px;
+  padding:10px;
+}
+
+#ans{
+  font-size: 12px;
+  margin-top: 10px;
+  margin-left: 35px;
+  margin-right: 5px;
+}
+
+#faq-q{
+  font-size: 16px;
+}
+#faq-a{
+  font-size: 12px;
+}
+
+
 #pink {
   color: #F29E9F;
 }
