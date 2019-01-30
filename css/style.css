@@ -14,6 +14,7 @@ a:link, a:visited, a:hover, a:active {
 #accent-text{
   font-family: 'Zilla Slab', serif;
   font-weight: 500;
+  margin-top: 10px;
 }
 #landing {
   background: linear-gradient(180deg, #47A3B2 36.02%, #89CDD8 100%);
@@ -74,13 +75,17 @@ a:link, a:visited, a:hover, a:active {
   cursor: pointer;
 }
 
-#faq-q{
-  font-size: 16px;
-}
-#faq-a{
-  font-size: 12px;
+#logo{
+  max-height: 80px;
+  margin: 10px;
 }
 
+#footer-item{
+  max-height: 25px;
+  position: relative;
+  top: 50%;
+  transform: translateY(-60%);
+}
 
 #pink {
   color: #F29E9F;
