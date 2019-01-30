@@ -63,11 +63,15 @@ a:link, a:visited, a:hover, a:active {
   padding:10px;
 }
 
-#ans{
+.answer {
   font-size: 12px;
   margin-top: 10px;
   margin-left: 35px;
   margin-right: 5px;
+}
+
+.faq-toggle:hover {
+  cursor: pointer;
 }
 
 #faq-q{
