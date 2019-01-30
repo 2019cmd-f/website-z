@@ -15,7 +15,7 @@ a:link, a:visited, a:hover, a:active {
   margin-top: 10px;
 }
 #landing {
-  background: linear-gradient(180deg, #47A3B2 36.02%, #89CDD8 100%);
+  background: linear-gradient(180deg, #47A3B2 30.0%, #89CDD8 100%);
 }
 #about{
   margin-top: 25px;
@@ -30,7 +30,7 @@ a:link, a:visited, a:hover, a:active {
 }
 
 #footer{
-  background: #47A3B2;
+  background: linear-gradient(180deg, #47A3B2 0%, rgba(71, 163, 178, 0.65) 100%);;
   padding-top: 10px;
 }
 #br-align{
