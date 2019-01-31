@@ -16,9 +16,10 @@ a:link, a:visited, a:hover, a:active {
 }
 #landing {
   background: linear-gradient(180deg, #47A3B2 30.0%, #89CDD8 100%);
+  padding-bottom: 50px;
 }
 #about{
-  margin-top: 25px;
+  margin-top: 75px;
 }
 #wave{
   margin-top: 25px;
