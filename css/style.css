@@ -16,6 +16,10 @@ a:link, a:visited, a:hover, a:active {
 }
 #landing {
   background: linear-gradient(180deg, #47A3B2 30.0%, #89CDD8 100%);
+  height: 100vh;
+  width: 100vw;
+  min-height: 100%;
+  overflow: hidden;
 }
 #about{
   margin-top: 25px;
@@ -88,4 +92,11 @@ a:link, a:visited, a:hover, a:active {
 
 #pink {
   color: #F29E9F;
+}
+
+
+.container-fluid {
+  width: 100vw;
+  margin: 0;
+  padding: 0;
 }
