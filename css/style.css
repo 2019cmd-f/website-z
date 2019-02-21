@@ -82,6 +82,7 @@ a:link, a:visited, a:hover, a:active {
 
 #logo{
   margin: 15px;
+  max-width: 70%;
 }
 
 #footer-item{
