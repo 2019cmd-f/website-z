@@ -75,9 +75,30 @@ a:link, a:visited, a:hover, a:active {
   cursor: pointer;
 }
 
-#logo{
-  max-height: 80px;
+#partner{
+  max-height: 70px;
   margin: 10px;
+}
+
+#gold{
+  max-height: 75px;
+  margin: 20px;
+}
+#silver{
+  max-height: 65px;
+  margin: 20px;
+}
+#silver-tall{
+  max-height: 100px;
+  margin: 20px;
+}
+#bronze{
+  max-height: 55px;
+  margin: 20px;
+}
+#in-kind{
+  max-height: 50px;
+  margin: 15px;
 }
 
 #footer-item{
